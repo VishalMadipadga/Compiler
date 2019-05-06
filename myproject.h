@@ -1,0 +1,10 @@
+#ifndef _MYPROJECT_H_
+#define _MYPROJECT_H_
+//Vishal Madipadga
+//CS3377.501
+//vrm160030@utdallas.edu
+
+//enumurating tokens used by Flex
+enum {NAME_INITIAL_TOKEN =1, ROMANTOKEN, SRTOKEN, JRTOKEN, EOLTOKEN, INTTOKEN, HASHTOKEN, COMMATOKEN, NAMETOKEN, DASHTOKEN, IDENTIFIERTOKEN  }
+
+#endif /* _MYPROJECT_H_*/
